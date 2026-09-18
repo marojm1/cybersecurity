@@ -1,0 +1,21 @@
+# Task 1 : Deploy FortiGate VM
+
+# Task 2 : Deploy an Ubuntu Linux  VM on protected subnet 
+
+# Task 3: Verify Connectivity
+
+# Task 4: Enable nad Verify Logging 
+
+# Task5 : Perform Connectivity Tests and Document Results 
+
+
+# TaCreate Outbound Rule for Internet Access 
+
+# Install Appache Web Server
+
+# Test HTTP Connection to FortiGate Public IP
+
+# Configure FortiGate Virtual Ip for Web Server Access
+
+# Test Web Access Filtering
+
